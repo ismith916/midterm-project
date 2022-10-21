@@ -16,6 +16,7 @@ function App() {
          <Button  variant="primary" onClick={() => {setMessages([])}}>Reset / Delete</Button>
       </div> */}
          <GuessingGame />
+
       </div>
    );
 }
